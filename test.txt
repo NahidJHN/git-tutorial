@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 hello world update form master
 this second hello world
+=======
+
+hello world update form nahid
+>>>>>>> 992f3914dd263538050e76f3ecc5a2742d964016
